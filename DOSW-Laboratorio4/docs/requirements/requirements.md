@@ -82,3 +82,6 @@ Al realizar una consignación (RF-03), el usuario espera ver su saldo actualizad
 
 ### d. ¿Existe algún requerimiento que no debería realizarse?
 En una primera fase (MVP), el requerimiento de Reportes para la DIAN en JSON podría posponerse. Es un requerimiento regulatorio importante, pero no bloquea la operación funcional básica de captar dinero y gestionar cuentas. Este debería realizarse solo cuando el núcleo de la aplicación sea estable y funcional.
+
+### agregamos el link del mockups 
+https://group-duct-40810633.figma.site/
